@@ -1,0 +1,30 @@
+_repo: The-Life-of-Columbus_15336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Helps, Arthur, Sir
+    birthdate: 1813
+    deathdate: 1875
+    gutenberg_agent_id: '2469'
+    url: http://www.gutenberg.org/2009/agents/2469
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Helps
+description: ''
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explorers -- Spain -- Biography'
+- !lcsh 'Columbus, Christopher'
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+- !lcsh 'Explorers -- America -- Biography'
+- !lcc 'E011'
+title: The Life of Columbus
+url: http://www.gutenberg.org/ebooks/15336
